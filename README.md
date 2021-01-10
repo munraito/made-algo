@@ -1,2 +1,2 @@
 # made-algo
-Algorithms course, 1st semestr
+Solutions to (almost) all course problems. 
